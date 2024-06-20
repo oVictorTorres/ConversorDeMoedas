@@ -28,9 +28,9 @@ Apenas execute o programa na classe "Principal" pelo Github
 ou em um ambiente de desenvolvimento e use o console para obter a conversão em tempo real.
 ```
 
-## 📫 Contribuindo para <nome_do_projeto>
+## 📫 Contribuindo para o <Conversor de Moedas>
 
-Para contribuir com <Conversor de Moedas>, siga estas etapas:
+Para contribuir com <ConversorDeMoedas>, siga estas etapas:
 
 1. Bifurque este repositório.
 2. Crie um branch: `git checkout -b <main>`.
