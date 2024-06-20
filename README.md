@@ -19,18 +19,18 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 - Você instalou a versão mais recente de `<Java / Intellij ou Vscode / Jdk, Gson>`
 - Você tem uma máquina `<Windows / Linux / Mac>`.
 
-## ☕ Usando <Conversor de moedas.>
+## ☕ Usando o Conversor de moedas.
 
-Para usar <Conversor de moedas.>, siga estas etapas:
+Para usar o Conversor de moedas, siga estas etapas:
 
 ```
 Apenas execute o programa na classe "Principal" pelo Github
 ou em um ambiente de desenvolvimento e use o console para obter a conversão em tempo real.
 ```
 
-## 📫 Contribuindo para o <Conversor de Moedas>
+## 📫 Contribuindo para o Conversor de Moedas
 
-Para contribuir com <ConversorDeMoedas>, siga estas etapas:
+Para contribuir com o Conversor de Moedas, siga estas etapas:
 
 1. Bifurque este repositório.
 2. Crie um branch: `git checkout -b <main>`.
