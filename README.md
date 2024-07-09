@@ -40,6 +40,9 @@ Para contribuir com o Conversor de Moedas, siga estas etapas:
 
 Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
+## Badge do desafio
+<img src="https://github.com/oVictorTorres/ConversorDeMoedas/blob/main/Badge-Conversor.png">
+
 ## 🤝 Colaboradores
 
 Agradeço à seguinte pessoa que contribuiu para este projeto: 
